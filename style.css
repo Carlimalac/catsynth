@@ -11,12 +11,12 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #f9d4f9;
+  background: hwb(296 86% 2%);
 }
 .wrapper {
   padding: 35px 40px;
   border-radius: 20px;
-  background: hsl(312, 76%, 54%);
+  background: hsl(312, 100%, 77%);
 }
 .wrapper header {
   display: flex;
