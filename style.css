@@ -16,7 +16,7 @@ body {
 .wrapper {
   padding: 35px 40px;
   border-radius: 20px;
-  background: #eb1fcc;
+  background: hsl(312, 76%, 54%);
 }
 .wrapper header {
   display: flex;
