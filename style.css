@@ -16,7 +16,7 @@ body {
 .wrapper {
   padding: 35px 40px;
   border-radius: 20px;
-  background: hsl(312, 100%, 77%);
+  background: #ff8fe9;
 }
 .wrapper header {
   display: flex;
@@ -84,11 +84,11 @@ header input {
   height: 140px;
   margin: 0 -22px 0 -22px;
   border-radius: 0 0 5px 5px;
-  background: linear-gradient(#c907c5, #0fbec7);
+  background: linear-gradient(#7887ff, #0fbec7);
 }
 .piano-keys .black.active {
   box-shadow: inset -5px -10px 10px rgba(255,255,255,0.1);
-  background:linear-gradient(to bottom, #05619e, #00ddff);
+  background:linear-gradient(to bottom, #5ca2ff, #00ddff);
 }
 .piano-keys .white {
   height: 230px;
@@ -99,7 +99,7 @@ header input {
 }
 .piano-keys .white.active {
   box-shadow: inset -5px 5px 20px rgba(0,0,0,0.2);
-  background:linear-gradient(to bottom, #fff 0%, #fc94e7 100%);
+  background:linear-gradient(to bottom, #ffc9f4 0%, #fb9ce8 100%);
 }
 .piano-keys .key span {
   position: absolute;
